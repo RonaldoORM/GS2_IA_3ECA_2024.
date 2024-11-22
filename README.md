@@ -1,3 +1,7 @@
+- Ronaldo Otsuka Ribeiro Mira - RM: 95595 
+- Guilherme Rossi Kirsten - RM: 95230
+- Gabriel Gino Jorge Dallape - RM:94862
+
 # GS2_IA_3ECA_2024
 
 ## Relatório Técnico
